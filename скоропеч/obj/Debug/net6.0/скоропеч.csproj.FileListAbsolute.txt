@@ -1,0 +1,17 @@
+D:\инфа\скорогудаева\скоропеч\скоропеч\obj\Debug\net6.0\скоропеч.GeneratedMSBuildEditorConfig.editorconfig
+D:\инфа\скорогудаева\скоропеч\скоропеч\obj\Debug\net6.0\скоропеч.AssemblyInfoInputs.cache
+D:\инфа\скорогудаева\скоропеч\скоропеч\obj\Debug\net6.0\скоропеч.AssemblyInfo.cs
+D:\инфа\скорогудаева\скоропеч\скоропеч\obj\Debug\net6.0\скоропеч.csproj.CoreCompileInputs.cache
+D:\инфа\скорогудаева\скоропеч\скоропеч\bin\Debug\net6.0\скоропеч.exe
+D:\инфа\скорогудаева\скоропеч\скоропеч\bin\Debug\net6.0\скоропеч.deps.json
+D:\инфа\скорогудаева\скоропеч\скоропеч\bin\Debug\net6.0\скоропеч.runtimeconfig.json
+D:\инфа\скорогудаева\скоропеч\скоропеч\bin\Debug\net6.0\скоропеч.dll
+D:\инфа\скорогудаева\скоропеч\скоропеч\bin\Debug\net6.0\скоропеч.pdb
+D:\инфа\скорогудаева\скоропеч\скоропеч\obj\Debug\net6.0\скоропеч.dll
+D:\инфа\скорогудаева\скоропеч\скоропеч\obj\Debug\net6.0\refint\скоропеч.dll
+D:\инфа\скорогудаева\скоропеч\скоропеч\obj\Debug\net6.0\скоропеч.pdb
+D:\инфа\скорогудаева\скоропеч\скоропеч\obj\Debug\net6.0\скоропеч.genruntimeconfig.cache
+D:\инфа\скорогудаева\скоропеч\скоропеч\obj\Debug\net6.0\ref\скоропеч.dll
+D:\инфа\скорогудаева\скоропеч\скоропеч\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\инфа\скорогудаева\скоропеч\скоропеч\obj\Debug\net6.0\скоропеч.csproj.AssemblyReference.cache
+D:\инфа\скорогудаева\скоропеч\скоропеч\obj\Debug\net6.0\скоропеч.csproj.CopyComplete
